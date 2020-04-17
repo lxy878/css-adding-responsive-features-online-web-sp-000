@@ -62,7 +62,7 @@
     display: block;
   }
 
-  #social {
+  #social a {
     display: inline-block;
   }
 }
