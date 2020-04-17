@@ -61,10 +61,10 @@
   #navbar nav a.menu-icon {
     display: block;
   }
-  #logo h1{
+  #logo h2{
     display: none;
   }
-  
+
   #social a {
     display: inline-block;
   }
