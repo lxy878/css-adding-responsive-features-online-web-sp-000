@@ -10,7 +10,7 @@
   }
 }
 
-@media only screen and (max-width: 900px) {
+/*@media only screen and (max-width: 900px) {
   body{
     font-size: 85%;
   }
@@ -29,7 +29,7 @@
     -moz-column-count: 2;
     -webkit-column-count: 2;
   }
-}
+}*/
 
 /*@media only screen and (max-width: 750px) {
   #navbar nav a {
