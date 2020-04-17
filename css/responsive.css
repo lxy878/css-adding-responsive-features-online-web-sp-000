@@ -64,6 +64,6 @@
   }
 
   #logo, #social{
-    
+    display: inline;
   }
 }
