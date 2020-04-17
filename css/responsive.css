@@ -52,8 +52,8 @@
 }
 
 @media only screen and (max-width: 700px) {
-  navbar a {
+  #navbar a {
     display: none;
   }
-  
+
 }
