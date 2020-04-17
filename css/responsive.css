@@ -64,6 +64,6 @@
   }
 
   #logo, #social{
-    display: inline;
+    padding:60px 0 0;
   }
 }
